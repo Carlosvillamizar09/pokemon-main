@@ -92,6 +92,10 @@ Sigue las instrucciones en la consola para interactuar con el juego. Puedes eleg
 - `.gitignore`: Archivo para ignorar archivos y carpetas en Git.
 
 
+## Diagrama UML
+
+![Diagrama UML](./IMG/UML.jpg)
+
 ## 🛠️ Tecnologías Utilizadas
 
 - [Node.js](https://nodejs.org/)
