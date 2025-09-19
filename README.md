@@ -102,6 +102,10 @@ Sigue las instrucciones en la consola para interactuar con el juego. Puedes eleg
 - [Inquirer](https://www.npmjs.com/package/inquirer)
 - [Chalk](https://www.npmjs.com/package/chalk)
 
+## Video Sustentación
+
+[Video Presentación](https://youtu.be/EPAZLhUjHcI)
+
 ## 🤝 Autores
 
 - Carlos Villamizar - [GitHub](https://github.com/Carlosvillamizar09)
